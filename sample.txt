@@ -1,3 +1,6 @@
 ﻿あいうえお
 かきくけこ
 public void main{
+test
+test
+HelloWorld
